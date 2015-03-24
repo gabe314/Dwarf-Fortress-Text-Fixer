@@ -13,7 +13,7 @@ It runs in the background and tells Dwarf Fortress to redraw its screen over and
 
 How to Get It
 -------------
-Download it from DWFD: https://www.google.com/.
+Download it from DFFD: http://dffd.bay12games.com/file.php?id=10698.
 
 How to Use It
 -------------
